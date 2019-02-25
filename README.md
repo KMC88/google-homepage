@@ -1,1 +1,1 @@
-HTML/CSS page, mirring the search engine UI
+HTML/CSS page, mirroring the search engine UI
